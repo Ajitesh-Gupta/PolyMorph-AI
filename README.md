@@ -30,8 +30,8 @@ ai-polymer-system/
 1. Create a virtual environment:
 
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+python -m venv venv1
+source venv1/bin/activate  # On Windows: venv1\Scripts\activate
 ```
 
 2. Install dependencies:
