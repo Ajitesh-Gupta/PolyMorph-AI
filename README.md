@@ -1,7 +1,3 @@
-# Implementation drive link
-
-https://drive.google.com/file/d/10ofgnaFd9qzxDdf_olE0gPX3mGz8MPk4/view
-
 # AI Polymer System
 
 An AI-powered system for generating self-decomposing polymers with domain-specific functionality.
